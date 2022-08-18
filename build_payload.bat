@@ -1,5 +1,5 @@
 @echo off
-echo Payload building script.
+echo Payload build script.
 pause
 pip install pyinstaller
 pyinstaller -F payload/payload.py
