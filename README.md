@@ -3,7 +3,7 @@ Simple WiFi passwords stealer based on Digispark and smtplib
 
 # How to use
 
-1. Install [Python[(https://www.python.org/) and [Arduino IDE](https://www.arduino.cc/en/donate/).
+1. Install [Python](https://www.python.org/) and [Arduino IDE](https://www.arduino.cc/en/donate/).
 
 2. Buy Digispark somewhere in Aliexpress.
 
