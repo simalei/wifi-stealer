@@ -21,4 +21,4 @@ Simple WiFi passwords stealer based on Digispark and smtplib
 
 That's it!!!
 
-If you have some questions, feel free to write me in Discord (asimonov#0119).
+If you have some questions, feel free to write me in Discord (aryie#0119).
